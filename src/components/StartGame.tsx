@@ -1,4 +1,4 @@
-import React from "react";
+
 import { motion } from "framer-motion";
 import IMG from "../assets/dices 1.png";
 
